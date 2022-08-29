@@ -1,2 +1,2 @@
-# Physics-BUAA
+# notes-TangHY
 存储markdown格式笔记，以督促笔记与整理
